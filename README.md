@@ -108,7 +108,7 @@ The completed pfSense deployment provided the following gateway interfaces:
 
 #### Final Interface Configuration
 
-![pfSense final interface configuration](assets/11-final-results/pfsense-final-interface-summary.png)
+![pfSense final interface configuration](assets/05-interface-assignment/02-pfsense-final-interface-summary.png)
 
 The resulting configuration gives each internal security zone a dedicated Layer 3 gateway while keeping the networks logically separated through pfSense.
 
