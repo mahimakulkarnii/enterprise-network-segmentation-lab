@@ -201,7 +201,7 @@ The Netplan configuration defined the interface address, default route, and DNS 
 
 #### Netplan Static IP Configuration
 
-![Netplan static IP configuration](assets/08-netplan/netplan-static-ip-final.png)
+![Netplan static IP configuration](assets/08-netplan/netplan-static-ip-final-correct.png)
 
 After applying the configuration, I verified the assigned addresses and tested connectivity to the corresponding pfSense gateways.
 
